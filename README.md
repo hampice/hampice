@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## My name is LIN, Xinyu
+
 - 🔭 I’m currently a PhD student in CUHKSZ.
 
 - 🌱 I’m currently learning neural rendering, NeRF and Person Re-ID.
