@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently a PhD student in CUHKSZ.
+
+- 🌱 I’m currently learning neural rendering, NeRF and Person Re-ID.
+
+- 📫 How to reach me: [google schlor](https://scholar.google.com/citations?hl=zh-CN&user=BVZIVQgAAAAJ&view_op=list_works&gmla=AHoSzlXBz29rR6MEhGKsnIYC6E2qsQ74VlwOxI1UOi3pDN-mXEfOaXTDAQjI_sWZDCoNjEekJ5f9OuNwcgMAKcRIMD7n1lmnMlYur9ZzX-qN1lHfrWc)
+
 <!--
 **hampice/hampice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
